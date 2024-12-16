@@ -1,4 +1,4 @@
-README: Social Media Integration Login using Google
+ Social Media Integration Login using Google
 Introduction
 This project demonstrates how to integrate social media login functionality using Google in a web application. The example includes a simple login form and Google sign-in button, with the user details displayed upon successful login.
 
